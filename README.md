@@ -128,8 +128,8 @@ Franco Formigo		https://github.com/francobenjaminformigo
 
 Camila Calegari		https://github.com/camilacalegari
 
-Ivan De La Parte		https://github.com/ivandelaparte
+Ivan De La Parte	https://github.com/ivandelaparte
 
 Alejo Paiva		https://github.com/BLUHD823/repositorio_DevJump
 
-Leandro Cuevas		https://github.com/leandro-cuevas ´´´
+Leandro Cuevas		https://github.com/leandro-cuevas
