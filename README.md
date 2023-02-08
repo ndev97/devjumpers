@@ -121,3 +121,15 @@ git log --oneline --decorate --all --graph
 * 60af772 (origin/v0.2) se crea la rama remota
 * 47880da commit inicial
 
+``` 
+Nombres			Perfil GitHub
+
+Franco Formigo		https://github.com/francobenjaminformigo
+
+Camila Calegari		https://github.com/camilacalegari
+
+Ivan De La Parte		https://github.com/ivandelaparte
+
+Alejo Paiva		https://github.com/BLUHD823/repositorio_DevJump
+
+Leandro Cuevas		https://github.com/leandro-cuevas ´´´
